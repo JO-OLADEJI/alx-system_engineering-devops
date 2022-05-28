@@ -12,3 +12,6 @@ This repository contains basic automated scripts for bash/terminal.
 	- with user and group IDs displayed numerically
 	- including hidden files (starting with .)
 - Create a directory named `my_first_directory` in the `/tmp/` directory.
+- Move file `betty` from `/tmp/` to `/tmp/my_first_directory`.
+- Delete the file `betty` from `/tmp/my_first_directory/`.
+- Delete the directory `my_first_directory` in the `/tmp` directory.
