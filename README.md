@@ -15,3 +15,8 @@ This repository contains basic automated scripts for bash/terminal.
 - Move file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 - Delete the file `betty` from `/tmp/my_first_directory/`.
 - Delete the directory `my_first_directory` in the `/tmp` directory.
+- Change the working directory to the previous one.
+- List all files in 3 directories in specified order.
+- Print the type of the file named `iamafile`.
+- Create a symbolic link to `/bin/ls` named `__ls__` in the current working directory.
+- Copy all HTML files from working directory to it's parent.
