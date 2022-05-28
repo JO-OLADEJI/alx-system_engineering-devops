@@ -1,5 +1,7 @@
 # 0x00: Shell Basics
-This repository contains takshell scripts for bash/terminal.
+This repository contains basic automated scripts for bash/terminal.
 <br />
-### Files
-- Script that prints the absolute path of the current working directory.
+### Scripts
+- Print the absolute path of your current working directory.
+- Display the contents list of your current directory.
+- Change the working directory to user's home directory
