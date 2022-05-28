@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -a -lt
-ls -a -lt ../
-ls -a -lt /root
+ls -a -lt -U . ../ /root
