@@ -40,3 +40,7 @@ This repository contains basic automated scripts for bash/terminal.
 - Add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 - Create a directory called `my_dir` with permissions 751 in the working directory.
 - Change the group owner to `school` for the file `hello`.
+
+<br />
+### 0x02: Shell Redirections
+- Print "Hello, World" followed by a new line to the standard output
