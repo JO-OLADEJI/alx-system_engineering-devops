@@ -24,3 +24,8 @@ This repository contains basic automated scripts for bash/terminal.
 <br />
 ### 0x01: Shell Permissions
 - Switch the current user to the user `betty`.
+- Print the effective username of the current user.
+- Print the groups the current user is part of.
+- Change the owner of the file `hello` to the user `betty`.
+- Create an empty file called `hello`.
+- Add execute permission - `-rwxrw-r--` - to the owner of the file `hello`.
