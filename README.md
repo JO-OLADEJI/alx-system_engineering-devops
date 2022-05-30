@@ -29,3 +29,11 @@ This repository contains basic automated scripts for bash/terminal.
 - Change the owner of the file `hello` to the user `betty`.
 - Create an empty file called `hello`.
 - Add execute permission - `-rwxrw-r--` - to the owner of the file `hello`.
+- Add execute permission to the owner and the group owner, read permissions to the other users to the file `hello`.
+- Add execute permission to the owner, the group owner and the other users, to the file `hello`.
+- Set the permission to the file `hello` as follows:
+	- Owner: no permission at all
+	- Group: no permission at all
+	- Other users: all the permissions
+- Set the mode of the file `hello` to this: - `-rwxr-x-wx`.
+- Set the mode of the file `hello` the same as `olleh`'s mode.
