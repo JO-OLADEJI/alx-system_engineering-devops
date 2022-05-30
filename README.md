@@ -43,4 +43,8 @@ This repository contains basic automated scripts for bash/terminal.
 
 <br />
 ### 0x02: Shell Redirections
-- Print "Hello, World" followed by a new line to the standard output
+- Print "Hello, World" followed by a new line to the standard output.
+- Display a confused smiley `"(Ôo)'`.
+- Display the content of the `/etc/passwd` file.
+- Display the content of `/etc/passwd` and `/etc/hosts`.
+- Display the last 10 lines of `/etc/passwd`.
