@@ -37,3 +37,6 @@ This repository contains basic automated scripts for bash/terminal.
 	- Other users: all the permissions
 - Set the mode of the file `hello` to this: - `-rwxr-x-wx`.
 - Set the mode of the file `hello` the same as `olleh`'s mode.
+- Add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+- Create a directory called `my_dir` with permissions 751 in the working directory.
+- Change the group owner to `school` for the file `hello`.
