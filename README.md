@@ -1,7 +1,7 @@
-# 0x00: Shell Basics
+# ALx System Engineering Devops
 This repository contains basic automated scripts for bash/terminal.
 <br />
-### Scripts
+### 0x00: Shell Basics
 - Print the absolute path of your current working directory.
 - Display the contents list of your current directory.
 - Change the working directory to user's home directory.
@@ -20,3 +20,7 @@ This repository contains basic automated scripts for bash/terminal.
 - Print the type of the file named `iamafile`.
 - Create a symbolic link to `/bin/ls` named `__ls__` in the current working directory.
 - Copy all HTML files from working directory to it's parent.
+
+<br />
+### 0x01: Shell Permissions
+- Switch the current user to the user `betty`.
