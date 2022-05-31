@@ -48,3 +48,9 @@ This repository contains basic automated scripts for bash/terminal.
 - Display the content of the `/etc/passwd` file.
 - Display the content of `/etc/passwd` and `/etc/hosts`.
 - Display the last 10 lines of `/etc/passwd`.
+- Display the third line of the file `iacta`.
+- Create a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line.
+- Write into the file `ls_cwd_content` the result of the command `ls -la`.
+- Write a script that duplicates the last line of the file `iacta`.
+- Write a script that deletes all the regular files with  `.js` extension that are present in the currend directory and all its subfolders.
+- Write a script that counts the number of directories and sub-directories in the current directory.
