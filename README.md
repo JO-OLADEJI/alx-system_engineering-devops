@@ -64,3 +64,4 @@ This repository contains basic automated scripts for bash/terminal.
 - Replace all characters `A` and `c` from input to `Z` and `e` respectively.
 - Remove all letters `c` and `C` from input.
 - Reverse the input.
+- Display all users and their home directories, sorted by users (Based on the `/etc/passwd` file).
