@@ -1,6 +1,8 @@
 # ALx System Engineering Devops
 This repository contains basic automated scripts for bash/terminal.
+
 <br />
+
 ### 0x00: Shell Basics
 - Print the absolute path of your current working directory.
 - Display the contents list of your current directory.
@@ -22,6 +24,7 @@ This repository contains basic automated scripts for bash/terminal.
 - Copy all HTML files from working directory to it's parent.
 
 <br />
+
 ### 0x01: Shell Permissions
 - Switch the current user to the user `betty`.
 - Print the effective username of the current user.
@@ -42,6 +45,7 @@ This repository contains basic automated scripts for bash/terminal.
 - Change the group owner to `school` for the file `hello`.
 
 <br />
+
 ### 0x02: Shell Redirections
 - Print "Hello, World" followed by a new line to the standard output.
 - Display a confused smiley `"(Ôo)'`.
@@ -67,6 +71,7 @@ This repository contains basic automated scripts for bash/terminal.
 - Display all users and their home directories, sorted by users (Based on the `/etc/passwd` file).
 
 <br />
+
 ### 0x03: Shell Variables Expansions
 - Create an alias `ls` for the command `rm *`.
 - Print `hello user`, where user is the current Linux user.
