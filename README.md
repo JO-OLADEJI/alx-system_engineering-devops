@@ -74,3 +74,8 @@ This repository contains basic automated scripts for bash/terminal.
 - Count the number of directories in the `PATH`.
 - List environment variables.
 - List all local variables, environment variables and functions.
+- Create a new local variable `BEST` with a value of `School`.
+- Create a new global variable `BEST` with a value of `School`.
+- Print the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`.
+- Print the result of `POWER` divided by `DIVIDE`, followed by a new line.
+- Display the result of `BREATH` to the power `LOVE`.
