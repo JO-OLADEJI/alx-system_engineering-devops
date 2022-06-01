@@ -79,3 +79,6 @@ This repository contains basic automated scripts for bash/terminal.
 - Print the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`.
 - Print the result of `POWER` divided by `DIVIDE`, followed by a new line.
 - Display the result of `BREATH` to the power `LOVE`.
+- Convert a number from base 2 to base 10. The number in base 2 is stored in the environment variable `BINARY`.
+- Print all possible combinations of two letters, except `oo`.
+- Print a number with 2 decimal places. The number will be stored in the environment variable `NUM`.
