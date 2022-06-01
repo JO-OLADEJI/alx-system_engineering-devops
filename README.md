@@ -65,3 +65,7 @@ This repository contains basic automated scripts for bash/terminal.
 - Remove all letters `c` and `C` from input.
 - Reverse the input.
 - Display all users and their home directories, sorted by users (Based on the `/etc/passwd` file).
+
+<br />
+### 0x03: Shell Variables Expansions
+- Create an alias `ls` for the command `rm *`.
