@@ -69,3 +69,8 @@ This repository contains basic automated scripts for bash/terminal.
 <br />
 ### 0x03: Shell Variables Expansions
 - Create an alias `ls` for the command `rm *`.
+- Print `hello user`, where user is the current Linux user.
+- Add `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program.
+- Count the number of directories in the `PATH`.
+- List environment variables.
+- List all local variables, environment variables and functions.
